@@ -1,0 +1,14 @@
+type: edu
+files:
+  - name: src/battleship/Main.kt
+    visible: true
+    learner_created: false
+  - name: test/Tests.java
+    visible: false
+    learner_created: false
+feedback_link: https://hyperskill.org/learn/step/30256#comment
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Sun, 18 Aug 2024 22:15:59 UTC"
+record: 2
